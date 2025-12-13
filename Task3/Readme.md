@@ -136,8 +136,8 @@ root@service-a-7698599cc7-5z4gr:/app# curl http://service-a:8080
     * клиентский вызов `service-b`
     * входящий HTTP в `service-b`
 
-![img.png](img.png)
+![img.png](traces.png)
 
-![img_1.png](img_1.png)
+![img_1.png](trace1.png)
 
 [1]: https://github.com/Yandex-Practicum/architecture-alexandrite-k8s-trace "GitHub - Yandex-Practicum/architecture-alexandrite-k8s-trace"
